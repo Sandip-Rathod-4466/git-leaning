@@ -2,10 +2,7 @@ import React from 'react'
 
 const Brands = () => {
   return (
-    <div>
-      <h1>Sandip</h1>
-      Brands of sandip
-    </div>
+    <div>Brands of sandip</div>
   )
 }
 
